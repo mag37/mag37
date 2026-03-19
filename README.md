@@ -16,7 +16,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/almalinux/almalinux-original.svg" alt="almalinux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original-wordmark.svg" alt="proxmox" width="45" height="45"/>
 </p>
-          
+
+
+## Sponsor me
+
+<p align="left">
+  <a href="https://ko-fi.com/mag37"><img src="https://img.shields.io/badge/-Ko--fi-grey?style=flat-square&logo=Ko-fi" alt="Buy me a Coffee"></a>
+  <a href="https://liberapay.com/user-bin-rob/donate"><img src="https://img.shields.io/badge/-LiberaPay-grey?style=flat-square&logo=liberapay" alt="LiberaPay"></a>
+  <a href="https://github.com/sponsors/mag37"><img src="https://img.shields.io/badge/-Sponsor-grey?style=flat-square&logo=github" alt="Github Sponsor"></a>
+  <a href="https://www.paypal.com/donate/?business=P2V5MCWRGCNBG&no_recurring=0&currency_code=SEK"><img src="https://img.shields.io/badge/-PayPal-grey?style=flat-square&logo=paypal" alt="PayPal donation"></a>
+</p>
 
 <!--
 **mag37/mag37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
